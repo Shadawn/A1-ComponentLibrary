@@ -5,6 +5,8 @@
 		<Metadata name="CommonModule.А1БК_А1СписокМеханизмов.Module" id="af6e096a-0a4c-489e-9811-9d94257d7bf8.0" configVersion="9712e1678cde9d77599fd1db03e3beedaacc624c"/>
 		<Metadata name="CommonModule.А1БК_БулеваяКнопка" id="29592f38-b24f-44c5-9377-a287d7f9b874" configVersion="a4c7a48d1438141a028fedba03080a0845abc417"/>
 		<Metadata name="CommonModule.А1БК_БулеваяКнопка.Module" id="29592f38-b24f-44c5-9377-a287d7f9b874.0" configVersion="16366ef1147db8ab6ba8cd143f2d446a7ad0c2ca"/>
+		<Metadata name="CommonModule.А1БК_НаборКнопокБулевойКолонки" id="d7f71441-944b-4697-89ca-ff96a841efab" configVersion="503395d4ea541ab8fc8ed1936acc49c8b05bcdaa"/>
+		<Metadata name="CommonModule.А1БК_НаборКнопокБулевойКолонки.Module" id="d7f71441-944b-4697-89ca-ff96a841efab.0" configVersion="eda2661e51d4c8503fec75d1be82dd40dca4359c"/>
 		<Metadata name="CommonModule.А1БК_НаборКнопокСписка" id="a827a859-fcdc-4ba3-9a1b-7379a3dfd0aa" configVersion="df7f0749423bce2eb655b975277f3c7df93be63e"/>
 		<Metadata name="CommonModule.А1БК_НаборКнопокСписка.Module" id="a827a859-fcdc-4ba3-9a1b-7379a3dfd0aa.0" configVersion="ebcbcfb6d98f49c9810dac9a56cf9f61e78ad539"/>
 		<Metadata name="CommonModule.А1БК_НомерДатаДокумента" id="fa8fcf62-a601-4b50-9438-415458390f24" configVersion="e18df44d61c1f42a9ae57269906cc1fa82b4ca8b"/>
@@ -25,7 +27,7 @@
 		<Metadata name="CommonModule.А1БК_СохраняемоеПоле.Module" id="d6b895cc-bd88-4f06-bd36-64feb6f671c0.0" configVersion="ecebd06d306e9128d72fe09c680db50bbbda42cc"/>
 		<Metadata name="CommonModule.А1БК_СохраняемоеПолеФорматированногоДокумента" id="15295698-4638-43a2-bad2-8c7ccf3be2a0" configVersion="d00bb6105cf0bd496f42bc51bf944d81a7eb514b"/>
 		<Metadata name="CommonModule.А1БК_СохраняемоеПолеФорматированногоДокумента.Module" id="15295698-4638-43a2-bad2-8c7ccf3be2a0.0" configVersion="e59f8e71e5413c3186107c189446e4f23a18ff4a"/>
-		<Metadata name="Configuration.А1БК" id="50f18dad-ee8a-4955-8777-33f90bd5f0be" configVersion="cbf5f5f48cafc23e16ba2b82da8bd63463bb8a7a"/>
+		<Metadata name="Configuration.А1БК" id="50f18dad-ee8a-4955-8777-33f90bd5f0be" configVersion="99490f6d2e7679cf53c5644cadd225a1bd3662c8"/>
 		<Metadata name="Language.Русский" id="ffc0ec9a-a7c4-46c6-a51c-533bbae64970" configVersion="936f7266ba01b29fbff13083869a438bace41a8e"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

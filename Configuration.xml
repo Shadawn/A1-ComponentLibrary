@@ -52,7 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>2020-08-14</Version>
+			<Version>2020-08-31</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -64,6 +64,7 @@
 			<Language>Русский</Language>
 			<CommonModule>А1БК_А1СписокМеханизмов</CommonModule>
 			<CommonModule>А1БК_БулеваяКнопка</CommonModule>
+			<CommonModule>А1БК_НаборКнопокБулевойКолонки</CommonModule>
 			<CommonModule>А1БК_НаборКнопокСписка</CommonModule>
 			<CommonModule>А1БК_НомерДатаДокумента</CommonModule>
 			<CommonModule>А1БК_ОтборДинамическогоСписка</CommonModule>
