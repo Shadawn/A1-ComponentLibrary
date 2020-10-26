@@ -28,7 +28,7 @@
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
-				<xr:ObjectId>5ad5e121-06e2-4b89-a3fa-89813d66e59b</xr:ObjectId>
+				<xr:ObjectId>7d4ad478-7773-4985-99eb-356430199035</xr:ObjectId>
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
@@ -52,7 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>2020-10-02</Version>
+			<Version>2020-10-16</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright/>
@@ -75,10 +75,11 @@
 			<CommonModule>А1БК_ПолеВыбораФайла</CommonModule>
 			<CommonModule>А1БК_ПолеОбъектаПоИдентификатору</CommonModule>
 			<CommonModule>А1БК_РедактируемаяТаблицаДанных</CommonModule>
-			<CommonModule>А1БК_СвертываемаяГруппа</CommonModule>
 			<CommonModule>А1БК_СохраняемаяВНастройкахТаблица</CommonModule>
+			<CommonModule>А1БК_СвертываемаяГруппа</CommonModule>
 			<CommonModule>А1БК_СохраняемоеПоле</CommonModule>
 			<CommonModule>А1БК_СохраняемоеПолеФорматированногоДокумента</CommonModule>
+			<CommonModule>А1БК_ТаблицаОбъекта</CommonModule>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
