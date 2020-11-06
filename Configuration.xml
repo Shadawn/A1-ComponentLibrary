@@ -28,7 +28,7 @@
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
-				<xr:ObjectId>7d4ad478-7773-4985-99eb-356430199035</xr:ObjectId>
+				<xr:ObjectId>38c7d66a-165e-4b0b-81c4-df4827960c9f</xr:ObjectId>
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
@@ -52,7 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>2020-10-16</Version>
+			<Version>2020-11-05</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright/>
@@ -65,6 +65,7 @@
 			<CommonTemplate>А1БК_А1Зависимости</CommonTemplate>
 			<CommonModule>А1БК_А1СписокМеханизмов</CommonModule>
 			<CommonModule>А1БК_БулеваяКнопка</CommonModule>
+			<CommonModule>А1БК_КнопкаДанных</CommonModule>
 			<CommonModule>А1БК_НаборКнопокБулевойКолонки</CommonModule>
 			<CommonModule>А1БК_НаборКнопокСписка</CommonModule>
 			<CommonModule>А1БК_НомерДатаДокумента</CommonModule>
@@ -75,8 +76,8 @@
 			<CommonModule>А1БК_ПолеВыбораФайла</CommonModule>
 			<CommonModule>А1БК_ПолеОбъектаПоИдентификатору</CommonModule>
 			<CommonModule>А1БК_РедактируемаяТаблицаДанных</CommonModule>
-			<CommonModule>А1БК_СохраняемаяВНастройкахТаблица</CommonModule>
 			<CommonModule>А1БК_СвертываемаяГруппа</CommonModule>
+			<CommonModule>А1БК_СохраняемаяВНастройкахТаблица</CommonModule>
 			<CommonModule>А1БК_СохраняемоеПоле</CommonModule>
 			<CommonModule>А1БК_СохраняемоеПолеФорматированногоДокумента</CommonModule>
 			<CommonModule>А1БК_ТаблицаОбъекта</CommonModule>
