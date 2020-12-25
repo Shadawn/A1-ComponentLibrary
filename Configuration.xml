@@ -52,7 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>2020-11-11</Version>
+			<Version>2020-12-24</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright/>
@@ -75,6 +75,7 @@
 			<CommonModule>А1БК_ПолеВыбораНесколькихТаблицаОбъекта</CommonModule>
 			<CommonModule>А1БК_ПолеВыбораФайла</CommonModule>
 			<CommonModule>А1БК_ПолеОбъектаПоИдентификатору</CommonModule>
+			<CommonModule>А1БК_ПолеФорматированногоДокумента</CommonModule>
 			<CommonModule>А1БК_РедактируемаяТаблицаДанных</CommonModule>
 			<CommonModule>А1БК_СвертываемаяГруппа</CommonModule>
 			<CommonModule>А1БК_СохраняемаяВНастройкахТаблица</CommonModule>
