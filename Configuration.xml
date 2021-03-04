@@ -52,7 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>2020-02-03</Version>
+			<Version>2021-03-04</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright/>
@@ -65,6 +65,7 @@
 			<CommonTemplate>А1БК_А1Зависимости</CommonTemplate>
 			<CommonModule>А1БК_А1СписокМеханизмов</CommonModule>
 			<CommonModule>А1БК_БулеваяКнопка</CommonModule>
+			<CommonModule>А1БК_ГруппаСКолонками</CommonModule>
 			<CommonModule>А1БК_КнопкаДанных</CommonModule>
 			<CommonModule>А1БК_НаборКнопокБулевойКолонки</CommonModule>
 			<CommonModule>А1БК_НаборКнопокСписка</CommonModule>
@@ -74,6 +75,7 @@
 			<CommonModule>А1БК_ПолеВыбораНескольких</CommonModule>
 			<CommonModule>А1БК_ПолеВыбораНесколькихТаблицаОбъекта</CommonModule>
 			<CommonModule>А1БК_ПолеВыбораФайла</CommonModule>
+			<CommonModule>А1БК_ПолеДатыРегулируемое</CommonModule>
 			<CommonModule>А1БК_ПолеОбъектаБулеваяДата</CommonModule>
 			<CommonModule>А1БК_ПолеОбъектаПоИдентификатору</CommonModule>
 			<CommonModule>А1БК_ПолеФорматированногоДокумента</CommonModule>
