@@ -52,7 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>2021-03-26</Version>
+			<Version>2021-04-28</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright/>
@@ -66,6 +66,7 @@
 			<CommonModule>А1БК_А1СписокМеханизмов</CommonModule>
 			<CommonModule>А1БК_БулеваяКнопка</CommonModule>
 			<CommonModule>А1БК_ГруппаСКолонками</CommonModule>
+			<CommonModule>А1БК_ДеревоФормы</CommonModule>
 			<CommonModule>А1БК_КнопкаДанных</CommonModule>
 			<CommonModule>А1БК_НаборКнопокБулевойКолонки</CommonModule>
 			<CommonModule>А1БК_НаборКнопокСписка</CommonModule>
@@ -79,12 +80,14 @@
 			<CommonModule>А1БК_ПолеОбъектаБулеваяДата</CommonModule>
 			<CommonModule>А1БК_ПолеОбъектаПоИдентификатору</CommonModule>
 			<CommonModule>А1БК_ПолеФорматированногоДокумента</CommonModule>
+			<CommonModule>А1БК_ПостояннаяГруппа</CommonModule>
 			<CommonModule>А1БК_РедактируемаяТаблицаДанных</CommonModule>
 			<CommonModule>А1БК_СвертываемаяГруппа</CommonModule>
 			<CommonModule>А1БК_СохраняемаяВНастройкахТаблица</CommonModule>
 			<CommonModule>А1БК_СохраняемоеПоле</CommonModule>
 			<CommonModule>А1БК_СохраняемоеПолеФорматированногоДокумента</CommonModule>
 			<CommonModule>А1БК_ТаблицаОбъекта</CommonModule>
+			<CommonModule>А1БК_ТаблицаФормы</CommonModule>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
