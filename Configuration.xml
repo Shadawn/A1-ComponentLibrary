@@ -52,7 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>2021-08-03</Version>
+			<Version>2021-08-16</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright/>
@@ -86,6 +86,7 @@
 			<CommonModule>А1БК_СохраняемаяВНастройкахТаблица</CommonModule>
 			<CommonModule>А1БК_СохраняемоеПоле</CommonModule>
 			<CommonModule>А1БК_СохраняемоеПолеФорматированногоДокумента</CommonModule>
+			<CommonModule>А1БК_СтандартнаяФорма</CommonModule>
 			<CommonModule>А1БК_ТаблицаОбъекта</CommonModule>
 			<CommonModule>А1БК_ТаблицаФормы</CommonModule>
 		</ChildObjects>
