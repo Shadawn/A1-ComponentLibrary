@@ -89,6 +89,8 @@
 			<CommonModule>А1БК_СтандартнаяФорма</CommonModule>
 			<CommonModule>А1БК_ТаблицаОбъекта</CommonModule>
 			<CommonModule>А1БК_ТаблицаФормы</CommonModule>
+			<CommonModule>А1БК_СписокЭтапов</CommonModule>
+			<CommonModule>А1БК_ШкалаПрогресса</CommonModule>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
