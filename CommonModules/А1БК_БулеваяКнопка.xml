@@ -3,12 +3,7 @@
 	<CommonModule uuid="29592f38-b24f-44c5-9377-a287d7f9b874">
 		<Properties>
 			<Name>А1БК_БулеваяКнопка</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>А1 б к булевая кнопка</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

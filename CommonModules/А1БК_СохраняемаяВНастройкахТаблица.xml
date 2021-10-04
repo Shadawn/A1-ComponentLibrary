@@ -3,12 +3,7 @@
 	<CommonModule uuid="62ab8c8f-6797-4398-867f-35c16dfce447">
 		<Properties>
 			<Name>А1БК_СохраняемаяВНастройкахТаблица</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>А1 б к сохраняемая в настройках таблица</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

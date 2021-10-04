@@ -3,12 +3,7 @@
 	<CommonModule uuid="d6b895cc-bd88-4f06-bd36-64feb6f671c0">
 		<Properties>
 			<Name>А1БК_СохраняемоеПоле</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>А1 б к сохраняемое поле</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

@@ -3,12 +3,7 @@
 	<CommonModule uuid="a827a859-fcdc-4ba3-9a1b-7379a3dfd0aa">
 		<Properties>
 			<Name>А1БК_НаборКнопокСписка</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>А1 б к набор кнопок списка</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

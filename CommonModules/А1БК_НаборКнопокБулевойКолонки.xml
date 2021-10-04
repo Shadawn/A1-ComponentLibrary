@@ -3,12 +3,7 @@
 	<CommonModule uuid="d7f71441-944b-4697-89ca-ff96a841efab">
 		<Properties>
 			<Name>А1БК_НаборКнопокБулевойКолонки</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>А1 б к набор кнопок булевой колонки</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

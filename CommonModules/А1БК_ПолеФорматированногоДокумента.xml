@@ -3,12 +3,7 @@
 	<CommonModule uuid="c4f57cbe-934f-465d-aa10-84cde4c84a7b">
 		<Properties>
 			<Name>А1БК_ПолеФорматированногоДокумента</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang/>
-					<v8:content>А1 б к поле форматированного документа</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

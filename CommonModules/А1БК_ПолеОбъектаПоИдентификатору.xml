@@ -3,12 +3,7 @@
 	<CommonModule uuid="cb53604c-95d0-4ab7-8bed-a43cc7b62dc3">
 		<Properties>
 			<Name>А1БК_ПолеОбъектаПоИдентификатору</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>А1 б к поле объекта по идентификатору</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

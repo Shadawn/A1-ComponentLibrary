@@ -3,12 +3,7 @@
 	<CommonModule uuid="20a0534d-4ae3-4a5f-b879-ead7e69cf4c2">
 		<Properties>
 			<Name>А1БК_ДеревоФормы</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang/>
-					<v8:content>А1 б к дерево формы</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

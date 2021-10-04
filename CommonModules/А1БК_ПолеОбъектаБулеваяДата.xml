@@ -3,12 +3,7 @@
 	<CommonModule uuid="ef25741b-1dcc-4325-9c42-1cd4865b713b">
 		<Properties>
 			<Name>А1БК_ПолеОбъектаБулеваяДата</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>А1 б к поле объекта булевая дата</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

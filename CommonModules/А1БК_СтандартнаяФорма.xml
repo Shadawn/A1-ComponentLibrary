@@ -3,12 +3,7 @@
 	<CommonModule uuid="dd7e5531-feba-49fc-8600-361540db4c1c">
 		<Properties>
 			<Name>А1БК_СтандартнаяФорма</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang/>
-					<v8:content>А1 б к стандартная форма</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

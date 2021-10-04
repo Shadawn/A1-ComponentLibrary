@@ -3,12 +3,7 @@
 	<CommonModule uuid="fc5d8bbb-9082-487e-929f-2dd3ca649b32">
 		<Properties>
 			<Name>А1БК_СвертываемаяГруппа</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang/>
-					<v8:content>А1 б к свертываемая группа</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

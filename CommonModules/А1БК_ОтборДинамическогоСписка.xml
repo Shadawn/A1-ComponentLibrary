@@ -3,12 +3,7 @@
 	<CommonModule uuid="25daec40-be77-4eb7-b459-820297975876">
 		<Properties>
 			<Name>А1БК_ОтборДинамическогоСписка</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>А1 б к отбор динамического списка</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

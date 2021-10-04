@@ -3,12 +3,7 @@
 	<CommonModule uuid="8922b434-597d-4379-b9ae-453de5451f2c">
 		<Properties>
 			<Name>А1БК_ПостояннаяГруппа</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang/>
-					<v8:content>А1 б к постоянная группа</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

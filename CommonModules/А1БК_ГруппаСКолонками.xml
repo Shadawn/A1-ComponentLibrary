@@ -3,12 +3,7 @@
 	<CommonModule uuid="19517946-555c-434e-b536-3dbd7d2b2ee6">
 		<Properties>
 			<Name>А1БК_ГруппаСКолонками</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang/>
-					<v8:content>А1 б к группа с колонками</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

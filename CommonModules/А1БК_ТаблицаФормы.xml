@@ -3,12 +3,7 @@
 	<CommonModule uuid="893ee892-98bd-4859-85e1-1c62299e715a">
 		<Properties>
 			<Name>А1БК_ТаблицаФормы</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang/>
-					<v8:content>А1 б к таблица формы</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

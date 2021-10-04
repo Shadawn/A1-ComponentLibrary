@@ -3,12 +3,7 @@
 	<CommonModule uuid="62124dcc-84e1-47a7-9ce8-9d61919c97e2">
 		<Properties>
 			<Name>А1БК_ПолеВыбораФайла</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>А1 б к поле выбора файла</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

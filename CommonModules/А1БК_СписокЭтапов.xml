@@ -3,12 +3,7 @@
 	<CommonModule uuid="d9b60a95-2344-4b21-aa7a-9dd55fe2c599">
 		<Properties>
 			<Name>А1БК_СписокЭтапов</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang/>
-					<v8:content>А1 б к список этапов</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

@@ -3,12 +3,7 @@
 	<CommonModule uuid="f099819a-ca79-46a9-8386-de15ac3ae09b">
 		<Properties>
 			<Name>А1БК_ПолеДатыРегулируемое</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang/>
-					<v8:content>А1 б к поле даты регулируемое</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

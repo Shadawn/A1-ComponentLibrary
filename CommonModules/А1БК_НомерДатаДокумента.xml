@@ -3,12 +3,7 @@
 	<CommonModule uuid="fa8fcf62-a601-4b50-9438-415458390f24">
 		<Properties>
 			<Name>А1БК_НомерДатаДокумента</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>А1 б к номер дата документа</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

@@ -3,12 +3,7 @@
 	<CommonModule uuid="8834560e-3217-43ca-a0c1-869fcfaffa60">
 		<Properties>
 			<Name>А1БК_РедактируемаяТаблицаДанных</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>А1 б к редактируемая таблица данных</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

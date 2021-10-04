@@ -3,12 +3,7 @@
 	<CommonModule uuid="1963c1a9-4a18-41e4-97b7-bdde16fa1404">
 		<Properties>
 			<Name>А1БК_ПолеВыбораНескольких</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>А1 б к поле выбора нескольких</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

@@ -3,12 +3,7 @@
 	<CommonModule uuid="af6e096a-0a4c-489e-9811-9d94257d7bf8">
 		<Properties>
 			<Name>А1БК_А1СписокМеханизмов</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>А1 б к а1 список механизмов</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>

@@ -3,12 +3,7 @@
 	<CommonModule uuid="92809888-8b87-47ff-8079-1f8b4010df86">
 		<Properties>
 			<Name>А1БК_КнопкаДанных</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang/>
-					<v8:content>А1 б к кнопка данных</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>
